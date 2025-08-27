@@ -1,4 +1,4 @@
-**Detailed network presentation and results from early stages of training in [Network architecture presentation.pdf](Space-Debris-Super-Resolution-Object-Detection\Network-architecture-presentation.pdf) file**
+**Detailed network presentation and results from early stages of training in [Network architecture presentation.pdf](Network-architecture-presentation.pdf) file**
 
 The "Lightweight Super-Resolution Enhanced Network for Object Detection in Remote Sensing" aim is to allow the recognition of trained targets in situations where image quality cannot be guaranteed due to tough operational conditions and hardware limitations.
 This is made possible by combining 3 machine learning technologies:
